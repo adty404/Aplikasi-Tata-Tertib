@@ -11,10 +11,10 @@
 /* Template variables */
 $template = array(
     'name'          => 'Aplikasi Tata Tertib',
-    'author'        => 'MILLENIA SAHARANI',
+    'author'        => 'ADITYA PRASETYO',
     'robots'        => 'noindex, nofollow',
     'title'         => 'Aplikasi Tata Tertib',
-    'description'   => 'ProUI is a Responsive Bootstrap Admin Template created by pixelcave and published on Themeforest.',
+    'description'   => 'Aplikasi Tata Tertib SMK Telekomunikasi Telesandi Bekasi',
     // true                     enable page preloader
     // false                    disable page preloader
     'page_preloader'=> false,
